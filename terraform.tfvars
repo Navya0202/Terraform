@@ -1,0 +1,5 @@
+aws_access_key = "AKIAVNKU5QZVUHPD7CMH"
+aws_secret_key = "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"
+aws_region     = "ap-south-1"
+db_password    = "Rootec2rds"
+db_name        = "mydb"
